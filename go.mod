@@ -21,7 +21,7 @@ require (
 	github.com/stretchr/testify v1.8.1
 	github.com/yuin/goldmark v1.5.3
 	go.uber.org/multierr v1.9.0
-	golang.org/x/image v0.3.0
+	golang.org/x/image v0.5.0
 	golang.org/x/net v0.8.0
 	golang.org/x/text v0.8.0
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
